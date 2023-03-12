@@ -1,0 +1,11 @@
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\bin\Debug\WindowsFormsApp.DovizOfisi.exe.config
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\bin\Debug\WindowsFormsApp.DovizOfisi.exe
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\bin\Debug\WindowsFormsApp.DovizOfisi.pdb
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.csproj.AssemblyReference.cache
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.csproj.SuggestedBindingRedirects.cache
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.Form1.resources
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.Properties.Resources.resources
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.csproj.GenerateResource.cache
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.csproj.CoreCompileInputs.cache
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.exe
+D:\Software\WinForm\WindowsFormsApp.DovizOfisi\obj\Debug\WindowsFormsApp.DovizOfisi.pdb
